@@ -13,7 +13,7 @@ As atividades serão postadas no blog com as seguintes datas de entrega:
 Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
 
 ## Prazo de Entrega:
-Os códigos devem ser enviados **até a data limite**. Exercícios entregues **após** a correção terão valor reduzido.
+Os códigos devem ser enviados **até a data limite** de cada atividade. Exercícios entregues **após** a correção terão valor reduzido.
 
 #### Ponto de Atenção: Envie os Códigos no Prazo
 - Mantenha-se atualizado com as atividades e envios.
