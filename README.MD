@@ -8,7 +8,7 @@
 As atividades serão postadas no blog com as seguintes datas de entrega:
 	**<br/>  - Atividade 1: 02/11 - Conteúdo: Unidade VIII (0,75 ponto).
 	<br/> - Atividade 2: 16/11 - Conteúdo: Unidade VII (0,75 ponto). 
-	<br/> - Atividade 1: 01/12 - Conteúdo: Unidade IX e X (1,5 ponto).**
+	<br/> - Atividade final: 01/12 - Conteúdo: Unidade IX e X (1,5 ponto).**
 
 Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
 
