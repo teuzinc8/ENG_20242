@@ -18,7 +18,7 @@ Os códigos devem ser enviados **até a data limite**. Exercícios entregues **a
 ## Ponto de Atenção: Envie os Códigos no Prazo
 - Mantenha-se atualizado com as atividades e envios.
 - O professor irá verificar a data e hora das entregas no GitHub como parte da avaliação.
-<br/> - Os código enviados com atraso terão nota descontada em **0,2 pontos** por dia de atraso.
+<br/>- Os código enviados com atraso terão nota descontada em **0,2 pontos** por dia de atraso.
 
 ## Valor da Atividade
 - **3 pontos** - Avaliação referente ao 2º bimestre.
