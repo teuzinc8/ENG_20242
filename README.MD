@@ -6,9 +6,9 @@
 
 ## Passo 2: Organize os Estudos de Caso
 - As atividades serão postadas no blog com as seguintes datas de entrega:
-  Atividade 1: 02/11 - Conteúdo: Unidade VIII (0,75 ponto).
-  Atividade 2: 02/11 - Conteúdo: Unidade VII (0,75 ponto).
-  Atividade 1: 02/11 - Conteúdo: Unidade IX e X (1,5 ponto).
+	Atividade 1: 02/11 - Conteúdo: Unidade VIII (0,75 ponto).
+	Atividade 2: 02/11 - Conteúdo: Unidade VII (0,75 ponto).
+	Atividade 1: 02/11 - Conteúdo: Unidade IX e X (1,5 ponto).
 
 Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
 
