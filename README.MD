@@ -10,6 +10,21 @@
 2. No canto superior direito, clique no botão **Fork** para criar uma cópia do repositório em sua conta do GitHub.
 
 ## Passo 3: Organize os Estudos de Caso
+
+### Criação de Pastas para Cada Atividade
+Para cada atividade, crie uma pasta separada no seu repositório no GitHub seguindo os passos abaixo:
+
+1. **Acesse seu repositório** (o que foi clonado após o *Fork*).
+2. Clique no botão **Add file** e selecione **Create new file**.
+3. No campo de nome, digite o nome da pasta seguido de uma barra `/` e o nome de um arquivo temporário.  
+   Exemplo: `Atividade1/README.md`.
+4. No arquivo *README.md*, adicione uma breve descrição, como:  
+   `# Atividade 1`  
+   `Exercícios referentes à Unidade VIII.`
+5. Clique em **Commit new file** para confirmar.
+6. Repita o processo para as outras atividades, criando as pastas **Atividade2** e **AtividadeFinal**.
+
+### Estrutura de Entrega das Atividades
 As atividades serão postadas no blog com as seguintes datas de entrega:
 - **Atividade 1: 02/11** - Exercícios de sala de aula - Conteúdo: Unidade VIII (0,75 ponto).
 - **Atividade 2: 16/11** - Exercícios de sala de aula - Conteúdo: Unidade VII (0,75 ponto). 
