@@ -11,7 +11,7 @@ As atividades serão postadas no blog com as seguintes datas de entrega:
 - **Atividade final: 01/12** - Exercícios de sala de aula - Conteúdo: Unidade IX e X (1,5 ponto).
 
 Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
-Modelo: **atv_portfolio_data.ipynb** - Ex.: *atv_portfolio_21102024.ipynb*
+<br>Modelo: **atv_portfolio_data.ipynb** - Ex.: *atv_conjunto_set_21102024.ipynb*
 
 ## Prazo de Entrega:
 Os códigos devem ser enviados **até a data limite** de cada atividade. Exercícios entregues **após** a correção terão valor reduzido.
