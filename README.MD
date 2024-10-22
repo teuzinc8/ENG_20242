@@ -33,7 +33,7 @@ As atividades serão postadas no blog com as seguintes datas de entrega:
 Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
 
 **Modelo:** **atv_portfolio_data.ipynb**  
-Exemplo: *atv_conjunto_set_21102024.ipynb*
+Exemplo: *Atividade1/atv_conjunto_set_21102024.ipynb*
 
 ## Prazo de Entrega
 Os códigos devem ser enviados **até a data limite** de cada atividade. Exercícios entregues **após** a correção terão valor reduzido.
